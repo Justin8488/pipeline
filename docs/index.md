@@ -3,7 +3,7 @@
 Este es el proyecto de:
 
 - Fulanito de Tal, B74653
-- Mengano de Tal, B083472
+- kkkk, B083472
 
 Esta es la documentación del proyecto de programación de IE0405 - Modelos Probabilísticos de Señales y Sistemas.
 
